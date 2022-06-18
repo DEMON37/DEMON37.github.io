@@ -1,4 +1,4 @@
-// Author: Shayer Mahmud Sowmik [ Ign0r3dH4x0r ]
+// Author: D4RK D3MON[ DEMONS ARMY]
 // Removing credit won't make you a cool programmer xD
 
 $(document).ready(() => {
